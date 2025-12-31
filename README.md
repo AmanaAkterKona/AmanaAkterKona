@@ -14,11 +14,11 @@ I am a dedicated **MERN Stack Developer** with a passion for building efficient,
 
 ### 📊 GitHub Statistics
 
-[![Amana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/AmanaAkterKona)
+[![Amana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/Amana Akter Kona)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/AmanaAkterKona)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/Amana Akter Kona)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://github.com/AmanaAkterKona)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://github.com/Amana Akter Kona)
 ### 🛠️ Tech Stack
 
 **Frontend:**
