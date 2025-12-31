@@ -14,9 +14,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical" alt="GitHub Streak" />
 </p>
-
 
 ### 📝 About Me
 I am a dedicated **MERN Stack Developer** with a passion for building efficient, scalable, and user-centric web applications. With a strong foundation in JavaScript and modern frameworks, I enjoy solving complex problems through clean and maintainable code. My goal is to create seamless digital experiences that drive innovation and add value to users.
