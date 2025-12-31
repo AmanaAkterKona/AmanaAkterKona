@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 ## Hi there 👋 I'm Amana Akter Kona
 
 ### 🚀 About Me
