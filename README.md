@@ -33,10 +33,14 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanaAkterKona&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanaAkterKona&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+----
 ⚡ **Fun fact:** I believe every line of code is a step towards building something amazing!
