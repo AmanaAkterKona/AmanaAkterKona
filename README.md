@@ -3,6 +3,17 @@
 # Hi there 👋 I'm Amana Akter Kona
 ## 🚀 MERN Stack Developer | Full Stack Web Enthusiast
 
+
+### 📝 About Me
+I am a dedicated **MERN Stack Developer** with a passion for building efficient, scalable, and user-centric web applications. With a strong foundation in JavaScript and modern frameworks, I enjoy solving complex problems through clean and maintainable code. My goal is to create seamless digital experiences that drive innovation and add value to users.
+
+- 🔭 I'm currently working on **MERN Stack Web Development** projects.
+- 🌱 I'm currently learning **Next.js** and advanced **React** concepts.
+- 💻 Passionate about building responsive and user-friendly web applications.
+- 👯 I'm looking to collaborate on **open-source projects** and **innovative web solutions**.
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express.js**.
+
+
 ### 📊 GitHub Statistics
 
 <p align="left">
@@ -16,15 +27,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical" alt="GitHub Streak" />
 </p>
-
-### 📝 About Me
-I am a dedicated **MERN Stack Developer** with a passion for building efficient, scalable, and user-centric web applications. With a strong foundation in JavaScript and modern frameworks, I enjoy solving complex problems through clean and maintainable code. My goal is to create seamless digital experiences that drive innovation and add value to users.
-
-- 🔭 I'm currently working on **MERN Stack Web Development** projects.
-- 🌱 I'm currently learning **Next.js** and advanced **React** concepts.
-- 💻 Passionate about building responsive and user-friendly web applications.
-- 👯 I'm looking to collaborate on **open-source projects** and **innovative web solutions**.
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express.js**.
 
 
 
