@@ -1,13 +1,24 @@
 ![Banner](./Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-## Hi there 👋 I'm Amana Akter Kona
+# Hi there 👋 I'm Amana Akter Kona
+## 🚀 MERN Stack Developer | Full Stack Web Enthusiast
 
-### 🚀 About Me
-- 🔭 I'm currently working on **MERN Stack Web Development** projects
-- 🌱 I'm currently learning **Next.js** and advanced **React** concepts
-- 💻 Passionate about building responsive and user-friendly web applications
-- 👯 I'm looking to collaborate on **open-source projects** and **innovative web solutions**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express.js**
+### 📝 About Me
+I am a dedicated **MERN Stack Developer** with a passion for building efficient, scalable, and user-centric web applications. With a strong foundation in JavaScript and modern frameworks, I enjoy solving complex problems through clean and maintainable code. My goal is to create seamless digital experiences that drive innovation and add value to users.
+
+- 🔭 I'm currently working on **MERN Stack Web Development** projects.
+- 🌱 I'm currently learning **Next.js** and advanced **React** concepts.
+- 💻 Passionate about building responsive and user-friendly web applications.
+- 👯 I'm looking to collaborate on **open-source projects** and **innovative web solutions**.
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express.js**.
+
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&hide_border=false" alt="Amana's GitHub Stats" />
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanaAkterKona&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -32,5 +43,6 @@
 - 📧 Email: [proff.kona@gmail.com](mailto:proff.kona@gmail.com)
 - 💼 LinkedIn: [Amana Akter Kona](https://www.linkedin.com/in/amena-akter-kona-614b823a3)
 - 📱 WhatsApp: [+880-1796575129](https://wa.me/8801796575129)
+
 ----
 ⚡ **Fun fact:** I believe every line of code is a step towards building something amazing!
