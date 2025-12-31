@@ -30,19 +30,5 @@
 - 📧 Email: [proff.kona@gmail.com](mailto:proff.kona@gmail.com)
 - 💼 LinkedIn: [Amana Akter Kona](https://www.linkedin.com/in/amena-akter-kona-614b823a3)
 - 📱 WhatsApp: [+880-1796575129](https://wa.me/8801796575129)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanaAkterKona&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 ----
 ⚡ **Fun fact:** I believe every line of code is a step towards building something amazing!
