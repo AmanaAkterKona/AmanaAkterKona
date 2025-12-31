@@ -13,11 +13,17 @@ I am a dedicated **MERN Stack Developer** with a passion for building efficient,
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express.js**.
 
 ### 📊 GitHub Statistics
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&hide_border=false" alt="Amana's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&rank_icon=github&display_format=github-light-6" alt="Amana's GitHub Stats" />
 </p>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanaAkterKona&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanaAkterKona&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Tech Stack
