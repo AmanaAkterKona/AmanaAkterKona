@@ -18,7 +18,7 @@ I am a dedicated **MERN Stack Developer** with a passion for building efficient,
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical" alt="Amana's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&custom_title=Amana%20Akter%20Kona's%20GitHub%20Stats" alt="Amana's GitHub Stats" />
 </p>
 
 <p align="left">
