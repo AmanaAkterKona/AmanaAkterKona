@@ -26,7 +26,7 @@ I am a dedicated **MERN Stack Developer** with a passion for building efficient,
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanaAkterKona&theme=radical&hide_border=true" alt="Amana's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AmanaAkterKona&theme=radical" alt="GitHub Streak" />
 </p>
 
 
