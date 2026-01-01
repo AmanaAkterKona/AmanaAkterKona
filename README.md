@@ -26,7 +26,11 @@ I am a dedicated **MERN Stack Developer** with a passion for building efficient,
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=amanaakterkona&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmanaAkterKona&show_icons=true&theme=radical&rank_icon=github&display_format=github" alt="Amana's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanaAkterKona&theme=radical" alt="GitHub Profile Details" />
 </p>
 
 ### 🛠️ Tech Stack
