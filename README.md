@@ -26,7 +26,7 @@ I am a dedicated **MERN Stack Developer** with a passion for building efficient,
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=amanaakterkona&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=amanaakterkona&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Tech Stack
