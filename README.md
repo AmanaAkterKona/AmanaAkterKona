@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6ZndndzZ0amgzd3g1c2Mzbmt3NTh4amI1N3R5bHBoZmlzY3V3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/3p50WGyUqiHh6/giphy.gif" width="100%" alt="Pixel Tech Room Banner" />
-</p>
+![Banner](./Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Amana Akter Kona</h1>
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Web Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Learning+Next.js+%26+Advanced+React;Passionate+About+Clean+Code" alt="Typing SVG" />
-</p>
+
+# Hi there 👋 I'm Amana Akter Kona
+
+## 🚀 MERN Stack Developer | Full Stack Web Enthusiast
 
 
 ### 📝 About Me
