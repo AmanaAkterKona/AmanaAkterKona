@@ -2,7 +2,7 @@
 
 
 
-# Hi there 👋 I'm Amana Akter Kona<img width="1584" height="396" alt="ks" src="https://github.com/user-attachments/assets/eb4945db-e580-4143-8540-478dc2a3983a" />
+# Hi there 👋 I'm Amana Akter Kona
 
 
 ## 🚀 MERN Stack Developer | Full Stack Web Enthusiast
