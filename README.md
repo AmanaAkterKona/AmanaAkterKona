@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/user-attachments/assets/eb4945db-e580-4143-8540-478dc2a3983a)
+![Banner](https://github.com/user-attachments/assets/1d662363-4f62-4d11-abf8-a7f9910d97eb)
 
 
 # Hi there 👋 I'm Amana Akter Kona
